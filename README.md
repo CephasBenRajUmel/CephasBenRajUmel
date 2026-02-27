@@ -10,7 +10,7 @@ I'm a BSIT student at Xavier University Ateneo de Cagayan! I love tinkering with
 - 📫 How to reach me: <2012000224@my.xu.edu.ph>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,git,github,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - 🚀 Cybersecurity
