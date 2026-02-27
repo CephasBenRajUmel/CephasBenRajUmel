@@ -18,4 +18,7 @@ I'm a BSIT student at Xavier University Ateneo de Cagayan! I love tinkering with
 ## 🏆 Achievements
 - None
 
+## Fun Fact
+- I once drank 3 Monster Energy drinks in 30 minutes
+
 Thanks for stopping by!
