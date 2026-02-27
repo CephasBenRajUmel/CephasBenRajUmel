@@ -1,7 +1,7 @@
 # Hi, I'm Ben! 👋
 
 I'm a BSIT student at Xavier University Ateneo de Cagayan! I love tinkering with technology and mechanical parts. I want to explore much of the coding world and especially cyber security while also improving my general skills. My goal is to become a full stack developer and help innovate in this amazing world. 
-![CephasBenRajUmelStats](https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR NAME)
+![CephasBenRajUmelStats](https://github-readme-stats-sigma-five.vercel.app/api?username=CephasBenRajUmel)
 
 ## 🚀 About Me
 - 🔭 Currently studying at Xavier University Ateneo de Cagayan as a 2nd year BSIT student.
