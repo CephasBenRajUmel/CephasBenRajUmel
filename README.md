@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ben! 👋
 
-<!--
-**CephasBenRajUmel/CephasBenRajUmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BSIT student at Xavier University Ateneo de Cagayan! I love tinkering with technology and mechanical parts. I want to explore much of the coding world and especially cyber security while also improving my general skills. My goal is to become a full stack developer and help innovate in this amazing world.
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently studying at Xavier University Ateneo de Cagayan as a 2nd year BSIT student.
+- 🌱 I'm know only the basics and hope to learn more.
+- 💬 Ask me about anything non-personal!
+- 📫 How to reach me: <2012000224@my.xu.edu.ph>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+- 🚀 Cybersecurity
+
+## 🏆 Achievements
+- None
+
+Thanks for stopping by!
