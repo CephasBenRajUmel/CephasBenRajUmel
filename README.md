@@ -16,7 +16,7 @@ I'm a BSIT student at Xavier University Ateneo de Cagayan! I love tinkering with
 - 🚀 Cybersecurity
 
 ## 🏆 Achievements
-- None
+- YBLL 3.0 Basic Track - Ideathon 1st Runner Up
 
 ## Fun Fact
 - I once drank 3 Monster Energy drinks in 30 minutes
